@@ -1,0 +1,21 @@
+nav{
+	height: 60px;
+}
+body {
+	background-repeat: no-repeat;
+	background-image: url('HH.gif');
+	background-size: cover;
+	background-attachment: fixed;
+	zoom: 90%;
+}
+#PP {
+	font-style: italic;
+	font-size: 100px;
+}
+#PI {
+	font-size: 30px;
+	border-width: 100%;
+}
+#PU {
+	margin-left: 30px;
+}
